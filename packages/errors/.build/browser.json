@@ -1,0 +1,33 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [
+    {
+      "name": "Errors",
+      "export": true
+    }
+  ],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "minimongo"
+    },
+    {
+      "package": "mongo-livedata"
+    },
+    {
+      "package": "templating"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "browser/packages/errors.js",
+      "length": 7634,
+      "offset": 0,
+      "servePath": "/packages/errors.js",
+      "sourceMap": "browser/packages/errors.js.map"
+    }
+  ]
+}

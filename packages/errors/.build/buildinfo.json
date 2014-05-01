@@ -1,0 +1,46 @@
+{
+  "builtBy": "meteor/10",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/Users/mpontice/microscope/packages/errors/package.js": "e80bc4e8d99c46a0344082e481cccb286109fd9b",
+        "/Users/mpontice/microscope/packages/errors/errors.js": "95b96fd790347b3758d3fc7869eec9099c65aab2",
+        "/Users/mpontice/microscope/packages/errors/errors_list.html": "a6b109bfeeeda1e8f18895da6db73d24c4f44da0",
+        "/Users/mpontice/microscope/packages/errors/errors_list.js": "32fda7c10fb66d99de9379b2f2c0f6a83213edd6"
+      },
+      "directories": []
+    },
+    "os.json": {
+      "files": {
+        "/Users/mpontice/microscope/packages/errors/package.js": "e80bc4e8d99c46a0344082e481cccb286109fd9b"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/Users/mpontice/microscope/packages/errors/package.js": "e80bc4e8d99c46a0344082e481cccb286109fd9b"
+      },
+      "directories": []
+    },
+    "tests.os.json": {
+      "files": {
+        "/Users/mpontice/microscope/packages/errors/package.js": "e80bc4e8d99c46a0344082e481cccb286109fd9b"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/mpontice/microscope/packages/errors/package.js": "e80bc4e8d99c46a0344082e481cccb286109fd9b"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "errors": "/Users/mpontice/microscope/packages/errors",
+    "meteor": "/Users/mpontice/.meteor/packages/meteor/8e32057b0d",
+    "minimongo": "/Users/mpontice/.meteor/packages/minimongo/25c78d4be7",
+    "mongo-livedata": "/Users/mpontice/.meteor/packages/mongo-livedata/de426c554a",
+    "templating": "/Users/mpontice/.meteor/packages/templating/3ed2abdb98"
+  },
+  "source": "/Users/mpontice/microscope/packages/errors"
+}

@@ -1,0 +1,24 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [
+    {
+      "name": "Errors",
+      "export": true
+    }
+  ],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "os/packages/errors.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/errors.js",
+      "sourceMap": "os/packages/errors.js.map"
+    }
+  ]
+}
