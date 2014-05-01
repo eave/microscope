@@ -3,7 +3,7 @@
   "sliceDependencies": {
     "browser.json": {
       "files": {
-        "/Users/mpontice/microscope/packages/errors/package.js": "e80bc4e8d99c46a0344082e481cccb286109fd9b",
+        "/Users/mpontice/microscope/packages/errors/package.js": "6a1cbfec19d403f7f24521d51fa543176c15d124",
         "/Users/mpontice/microscope/packages/errors/errors.js": "95b96fd790347b3758d3fc7869eec9099c65aab2",
         "/Users/mpontice/microscope/packages/errors/errors_list.html": "a6b109bfeeeda1e8f18895da6db73d24c4f44da0",
         "/Users/mpontice/microscope/packages/errors/errors_list.js": "32fda7c10fb66d99de9379b2f2c0f6a83213edd6"
@@ -12,26 +12,27 @@
     },
     "os.json": {
       "files": {
-        "/Users/mpontice/microscope/packages/errors/package.js": "e80bc4e8d99c46a0344082e481cccb286109fd9b"
+        "/Users/mpontice/microscope/packages/errors/package.js": "6a1cbfec19d403f7f24521d51fa543176c15d124"
       },
       "directories": []
     },
     "tests.browser.json": {
       "files": {
-        "/Users/mpontice/microscope/packages/errors/package.js": "e80bc4e8d99c46a0344082e481cccb286109fd9b"
+        "/Users/mpontice/microscope/packages/errors/package.js": "6a1cbfec19d403f7f24521d51fa543176c15d124",
+        "/Users/mpontice/microscope/packages/errors/errors_tests.js": "6b29af58032f9e6fc68c67cbf45e7888c12108a2"
       },
       "directories": []
     },
     "tests.os.json": {
       "files": {
-        "/Users/mpontice/microscope/packages/errors/package.js": "e80bc4e8d99c46a0344082e481cccb286109fd9b"
+        "/Users/mpontice/microscope/packages/errors/package.js": "6a1cbfec19d403f7f24521d51fa543176c15d124"
       },
       "directories": []
     }
   },
   "pluginDependencies": {
     "files": {
-      "/Users/mpontice/microscope/packages/errors/package.js": "e80bc4e8d99c46a0344082e481cccb286109fd9b"
+      "/Users/mpontice/microscope/packages/errors/package.js": "6a1cbfec19d403f7f24521d51fa543176c15d124"
     },
     "directories": []
   },
@@ -40,7 +41,9 @@
     "meteor": "/Users/mpontice/.meteor/packages/meteor/8e32057b0d",
     "minimongo": "/Users/mpontice/.meteor/packages/minimongo/25c78d4be7",
     "mongo-livedata": "/Users/mpontice/.meteor/packages/mongo-livedata/de426c554a",
-    "templating": "/Users/mpontice/.meteor/packages/templating/3ed2abdb98"
+    "templating": "/Users/mpontice/.meteor/packages/templating/3ed2abdb98",
+    "tinytest": "/Users/mpontice/.meteor/packages/tinytest/2b0be057f9",
+    "test-helpers": "/Users/mpontice/.meteor/packages/test-helpers/708786ac21"
   },
   "source": "/Users/mpontice/microscope/packages/errors"
 }

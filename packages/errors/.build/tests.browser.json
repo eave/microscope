@@ -5,13 +5,22 @@
   "uses": [
     {
       "package": "meteor"
+    },
+    {
+      "package": "errors"
+    },
+    {
+      "package": "tinytest"
+    },
+    {
+      "package": "test-helpers"
     }
   ],
   "resources": [
     {
       "type": "prelink",
       "file": "tests.browser/packages/errorstests.js",
-      "length": 0,
+      "length": 2327,
       "offset": 0,
       "servePath": "/packages/errors:tests.js",
       "sourceMap": "tests.browser/packages/errorstests.js.map"
